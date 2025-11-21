@@ -82,6 +82,7 @@ CakeStore/
 ├── app.py # Streamlit frontend application
 ├── documents # SRS, ER Diagram, Relational Schema
 └── README.md # Project documentation
+```
 
 ---
 
@@ -107,5 +108,5 @@ CakeStore/
 
 ## ✍️ Author
 
-Tanish Hegde
-Sumithra Suresh
+- [@tanishhegde](https://github.com/tanishhegde)
+- [@2sumithrasuresh](https://github.com/2sumithrasuresh)
